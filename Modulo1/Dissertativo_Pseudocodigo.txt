@@ -1,0 +1,17 @@
+Dissertativo
+- ler e armazenar o numero que deseja multiplicar
+- Subtrair n-1 e armazenar em uma variável
+- Subtrair 10-n e armazenar em uma variável
+- fazer a expressão de "(n1x10)"+"n2"
+- apresentar "n1"+"n2"
+
+Fluxograma
+inicio -> leia n -> n1=n-1 -> n2=10-n -> imprimir "(n1x10)"+"n2"
+
+Pseudocódigo
+1- Inicio
+2- leia n
+3- n1=n-1
+4- n2=10-n
+5- Imprima (n1x10)+n2
+6- Fim;
