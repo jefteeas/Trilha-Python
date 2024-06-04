@@ -1,0 +1,4 @@
+Nome: vectra -Placa: acb32h3 -Valor: 150 
+Nome: fusca -Placa: ads12f3 -Valor: 80 
+Nome: palio -Placa: def12r3 -Valor: 500 
+Nome: belina -Placa: esd12r6 -Valor: 50 

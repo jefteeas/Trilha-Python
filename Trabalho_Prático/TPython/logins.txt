@@ -1,0 +1,3 @@
+Login: icaro -Senha: 123 -Funcao: 2 -Email: ic@gmail.com -Data de Nascimento: 01/01/1991 -Numero de celular: 111111111 
+Login: amanda -Senha: 123 -Funcao: 1 -Email: aman@gmail.com -Data de Nascimento: 01/01/1990 -Numero de celular: 222222222 
+Login: lucas gomes -Senha: 987 -Funcao: 1 -Email: ll@gmail.com -Data de Nascimento: 01/01/1991 -Numero de celular: 111111111 
