@@ -1,0 +1,2 @@
+O programa simula uma locadora de carros tendo dois níveis de hierarquia(funcionário e gerente), cada qual tem seu menu especifico. É possível cadastrar um usuário, cadastrar um carro, ver os carros e usuários cadastrados, ver todos os dados de um usuário especifico(apenas gerente consegue ver), carros cadastrados, editar registros, excluir registros e ordenar os carros cadastrados por preço, de forma crescente e decrescente.
+Ao iniciar é necessário fazer o login com um dos usuários já cadastrados, estão cadastrados no arquivo logins.txt.
